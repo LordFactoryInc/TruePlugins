@@ -1,7 +1,9 @@
 # TruePlugins
-Unreal Engine Plugins.
+Unreal Engine plugins
 
-TrueCommon: UE 4.27+ plugin with basic game agnostic functionality:
+# TrueCommon
+
+UE 4.27+ plugin with basic game agnostic functionality:
 
 - Physical Object Actor
 - Impact Audio Component
